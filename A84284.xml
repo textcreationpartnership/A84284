@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Exclamatio pauperum: the exclamation, or the out-cry of the poor: against those state gudgeons at Westminster, who have swallowed up their lively-hoods by their unlawfull taxes, to uphold their rebellion, to the ruine of the kingdom in generall, and the absolute beggering of many thousands of tradsmen (who before the ravenous state had the power to stretchg them upon the tenters of their libidinous wills) lived happily and plentifully with their families, but now for want of trade, they are in a perishing condition, and altogether voyd of any reliefe fromthose who grind the face of the poore, and hate them, because they are the image of God. But I would wish all good men to observe the words of Solomon. ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84284</idno>
+            <idno type="STC">Wing E3843</idno>
+            <idno type="STC">Thomason E452_26</idno>
+            <idno type="STC">ESTC R204865</idno>
+            <idno type="EEBO-CITATION">99864322</idno>
+            <idno type="PROQUEST">99864322</idno>
+            <idno type="VID">116549</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84284)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116549)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E452[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Exclamatio pauperum: the exclamation, or the out-cry of the poor: against those state gudgeons at Westminster, who have swallowed up their lively-hoods by their unlawfull taxes, to uphold their rebellion, to the ruine of the kingdom in generall, and the absolute beggering of many thousands of tradsmen (who before the ravenous state had the power to stretchg them upon the tenters of their libidinous wills) lived happily and plentifully with their families, but now for want of trade, they are in a perishing condition, and altogether voyd of any reliefe fromthose who grind the face of the poore, and hate them, because they are the image of God. But I would wish all good men to observe the words of Solomon. ...</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "July 13th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Puritan Revolution, 1642-1660 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116549:1" rendition="simple:additions"/>
+            <p>
+               <hi>EXCLAMATIO PA<g ref="char:V">Ʋ</g>PER<g ref="char:V">Ʋ</g>M:</hi> THE EXCLAMATION, OR THE OUT-CRY OF THE POOR: Againſt Thoſe State Gudgeons at <hi>Weſtminſter,</hi> who have ſwallowed up their lively-hoods by their unlawfull Taxes, to uphold their Rebellion, to the ruine of the Kingdom in ge<g ref="char:EOLhyphen"/>nerall, and the abſolute beggering of many thouſands of Tradſmen (who before the ravenous State had the power to ſtretch them upon the tenters of their libidinous wills) lived happily and plentifully with their families, but now for want of Trade, they are in a periſhing condition, and altogether voyd of any reliefe from thoſe who grind the face of the Poore, and hate them, becauſe they are the Image of God. But I would wiſh all good men to obſerve the words of <hi>So<g ref="char:EOLhyphen"/>lomon.</hi>
+            </p>
+            <q>
+               <bibl>Prov. 14.31.</bibl>
+               <p>He that oppreſſeth the Poore, reproveth him that made him: but he honoreth him, that hath mercy of the Poor.</p>
+            </q>
+            <q>
+               <l>O curſed Monsters, and incarnate Devills,</l>
+               <l>Thus on the Kingdom ſtill to vent your evills;</l>
+               <l>What! do you think there is no God at all,</l>
+               <l>That ſurely will with vengeance on you fall?</l>
+               <l>Yes, yes our God is juſt, and he will try</l>
+               <l>You in the fire of Hels eternity:</l>
+               <l>If you repent not, and for mercy crave,</l>
+               <l>Damnation you are certaine for to have.</l>
+            </q>
+            <p>
+               <add>July 13<hi rend="sup">th</hi>
+               </add> Printed in the Yeare, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:116549:2"/>
+            <head>
+               <hi>Exclamatio Pauperum.</hi> THE EXCLAMATION, OR, OVT-CRY of the POORE, <hi>&amp;c.</hi>
+            </head>
+            <p>WHat! will you ſtill run on to our deſtruction? without any remorſe at all of our miſeries; not ſo much as once to take notice of our future calamities, which are like to be greater than our preſent ſuf<g ref="char:EOLhyphen"/>ferings, although they be altogether inſupportable, accor<g ref="char:EOLhyphen"/>ding to our weak abilities, for which we may think your un<g ref="char:EOLhyphen"/>gracious inhumane proceedings; who that you may bee glutted with the riches of the Kingdom, and inebriate your ſelves with the blood of Loyall Subjects, you have hither<g ref="char:EOLhyphen"/>to, and ſtill do by all means poſſible, both publick and pri<g ref="char:EOLhyphen"/>vate, both by intreaty and threates, endeavours to perſwade and ſeduce divers to hazzard their lives, that ſo they might ſupport your curſed and worſe than heatheniſh cauſe: But now your helliſh intentions having been found to be ſo hor<g ref="char:EOLhyphen"/>rid and cruell, even as to extend not onely to the murdering
+<pb n="2" facs="tcp:116549:3"/>of many poor ſubjects of this Kingdom (which is a crime both by the law of God and man deſerving death) but you have alſo endeavoured your ſelves: Firſt to diveſt the King of his Royal Power, and by falſe and ſcandalous papers and pamphlets to alien the hearts of his Subjects from him; but you too would turne Regicides and deſtroy him (which if not happily prevented (by that good and loyall Gentleman Mr. <hi>Osborne</hi>) had doubtleſſe in a ſhort time effected by your agent, that wretched <hi>Cative,</hi> and ever infamous deſperate Rebell Captaine <hi>Rolph,</hi> under the command of that curſed <hi>Cerberus, Hammond</hi>) an act ſo horrid in the ſight of God and man, that if it had bin executed, muſt needs a haſtned Gods indignation upon this milcreant Parliament, however the intention of the murther of ſo ſacred a Perſon as is our King (whom we ought not to harbour an evill thought of) is ſuf<g ref="char:EOLhyphen"/>ficient to cauſe the earth to ſwallow them, as it did <hi>Chora</hi> and his complices, for their conſpiracy and treachery a<g ref="char:EOLhyphen"/>gainſt <hi>Moſes,</hi> that ſo ſucceding ages might be forewarned, how they ſought the overthrow of him that is appointed to be their King and Ruler.</p>
+            <p>Thus while you ſpare not any thing to perpetrate our mi<g ref="char:EOLhyphen"/>ſeryes, and make our dolors greater: Wee, our Wives and Children (to whoſe indigent and ſorrowfull cries you ſtop your eares, like men who wiſh rather to continue our woes, than remedy them) are like to ſuffer by that miſerable plague of Famine, our Wives ſo diſabled with want, that they are not able to nurſe their young children, who are in a peri<g ref="char:EOLhyphen"/>ſhing condition, not having reliefe according to their age; we our ſelves miſerably afflicted and almoſt ſtarved, victu<g ref="char:EOLhyphen"/>als is ſo deer and chargeable, and our trading hath ſo failed us with your oppreſſions, that wee are many thouſands of us enforc'd with hunger to beg for our livings, which is ſo
+<pb n="3" facs="tcp:116549:3"/>poor a ſubſiſtance, to our needy and hungry ſoules (Chari<g ref="char:EOLhyphen"/>ty is ſo ſlender) that without ſome ſpeedy remedy, where<g ref="char:EOLhyphen"/>by we may be againe reſtored to our former callings, wee ſhall certainely dye in the ſtreets by want of ſuſtenance, while you at <hi>Westminſter</hi> like ſo many <hi>Neroes</hi> (having your delight with your wantons and all varieties) ſit upon the ſtage and laugh to ſee our miſeries every way increaſing, with Cities, Townes and Villages burning, the Innabitants ſome by the Sword, and others by the Famine or Peſtilence conſuming, and the earth all ſtaynd with innocent blood, for which you muſt ſurely give an account in the laſt day, when your ſhifts, evations, and ſubtleties will not relieve you, nor mony purchaſe your freedoms before the dreadfull Iudgement Seate of God.</p>
+            <p>Nay further, your malice is ſo great, and to ſhew how willing you are to deſtroy us, you would gladly have raiſed foure ſhillings upon each Chaldron of Coales for to have maintained that Hel-bound <hi>Haſlerigge,</hi> and his Beagles, a company of Schiſmatical Sectaries, thinking thereby to uphold your drooping, dying, f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ding, falling, fainting Cauſe; but that our good Rulers of the City, in their cle<g ref="char:EOLhyphen"/>mency towards us, would not agree to your wicked deſires: Oh what helliſh Machiavilian inventions are theſe! ſtill to plunge us further into extremity, not being ſatisfied to ex<g ref="char:EOLhyphen"/>tort by Taxes, and other Oppreſſions (both numerous, and well nigh inſupportable) from ſuch who in ſome <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>all mea<g ref="char:EOLhyphen"/>ſure were contributary to our neceſſity, but likewiſe by the raiſing and inhancing of our neceſſary fire, that w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the nipping cold of Winter come, wee may dye with the want of fuell, and by that meanes you be eaſed of <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and teares, but be certaine they will aſcend to he<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ven <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd plead againſt you.</p>
+            <pb n="4" facs="tcp:116549:4"/>
+            <p> Theſe, and thouſands more of miſcheifes are daily hatched by that wicked crue<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and bloudy Conventicle of Traitors againſt us, who like poore wormes are bruiſed and trodden to death by your pondrous and heavy foote-ſteps, daily walking upon, and as hungry Dogges devouring us, our Wives and Children, that you may be accounted the greater Tyrants by your inſulting and domineering over us the poorer ſort of People, after you have almoſt ruined many gallant Gentlemen with their Families, who we are confident would with the large extent of their Charities have relieved ſome of our indigencies, but by your dia<g ref="char:EOLhyphen"/>bolical uſeings, and worſe than Turkiſh torturings, and moſt unlawfull Extorting both their Goods, and Revenues for this ſeven yeares now laſt paſt, to make up the ends of a few needy Scoundrels (who before theſe unlucky broyles (which were begun by you) knew not ſcarcely how to provide themſelves bread to ſuſtaine their hunger, but now by fiſhing in the troubled waters of this diſtracted Kingdome have raiſed to themſelves great fortunes. And you who dayly ride up and downe in Coaches, ſit and vote our miſeries; yes, and feaſt, drinke, and drab at pleaſure; never remembring the Kingdomes ſufferings; nay you are grown to ſuch a height of lewdneſſe that there is not any thing which may be called ſinne, but you endeavour to commit it without once reflecting upon the events of your ungodly proceedings; although it hath pleaſed GOD to give you ſo many, and convenient opportunities to procure a happy Peace, and ſtoppe all our diſtractions, and deſolations which are ſo apparently falling upon us by all the Handmaydes of Warre, Peſtilence, Fire, and Fa<g ref="char:EOLhyphen"/>mine.</p>
+            <pb n="5" facs="tcp:116549:4"/>
+            <p> While you (the Grand Aſſembly of incarnate Devills at <hi>Westminster,</hi> who have all along by your retoricall Orations, Lyes, and Forgeries blind foulded and led us into a Captivity, for the number of yeares farre worſe than that of <hi>Egipt,</hi> pretending ſtill it was for our Religion, Lawes, and Libertyes, and ſo en<g ref="char:EOLhyphen"/>ſnared us by your damned ſubtleties, where now a ſhort time (to our hearts breaking hath layd open your reprobate intentions and made manifeſt to us your abhorred deceites and deluſions, how inſtead of being the conſervators of our Freedomes, you are the deſtroyers of our future good Hopes, to en<g ref="char:EOLhyphen"/>joye either Religion, or any good by your meanes: For you like Hedge-hogges not contenting your ſelves with the Milke of the Cowes dugges will ſuck till bloud come: I meane you, who not ſa<g ref="char:EOLhyphen"/>tisfied with the detaining of mens livelie-hoodes from them, doe ſeeke to ſpill their innocent lives (becauſe they begge for their owne) that ſo you may the better aſſure your ſelves to enjoy their Vineyards in ſafetie: But God is the revenger of all wrongs, and will make his Arrowes ſharpe in the hearts of the KINGS Enemies, to their ſhame, and confuſion.</p>
+            <p>Nay, it is not the Temporall Devills alone that worke our Woes, but it is likewiſe thoſe Spi<g ref="char:EOLhyphen"/>rituall Fiends, and Sinagogue of Satan, who call themſelves the Reformers of the Church, but are indeed the Deformers, which having changed their old Principles of Religion, Preach nothing but Rebellion and Treaſon, beſpattering the Pulpits
+<pb n="6" facs="tcp:116549:5"/>with Sedition, Blaſphemie, and Hereſie, and exciting all people to the murthering Kings, and killing Sub<g ref="char:EOLhyphen"/>jects, that they may bee upheld in their treble Bene<g ref="char:EOLhyphen"/>ficies, beſides their foure ſhillings <hi>per diem,</hi> not caring who are the parties in ſufferings and loſſes, if they may be principles in gaining.</p>
+            <epigraph>
+               <q>
+                  <l>Which diveliſh acts of theirs will ſurely be</l>
+                  <l>Revenged by the heavenly Deity.</l>
+               </q>
+            </epigraph>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
